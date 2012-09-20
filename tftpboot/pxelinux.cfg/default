@@ -1,0 +1,5 @@
+default vesamenu.c32
+LABEL -
+MENU LABEL BIOS
+APPEND /menus/main.cfg
+
