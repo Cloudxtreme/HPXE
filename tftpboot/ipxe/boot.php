@@ -1,7 +1,7 @@
 <?php
 echo "
 
-DEFAULT http://172.27.80.8/ipxe/menu.c32
+DEFAULT http://pxe/pxe/menu.c32
 PROMPT 0
 MENU TITLE Eniro PXE Boot
 TIMEOUT 200
